@@ -6,13 +6,4 @@
   - [music recommendations](https://open.spotify.com/playlist/0t5Rj2psjqDFkqvcLgvxy9?si=6351dd02e3974a19)
   - houseplant care
   - open class action lawsuit settlements
-- I'll talk your ear off about:
-  - ServiceNow
-  - Productivity tools 
-  - the MCU
-- always down for
-  - hackathons
-  - a late night work sesh
-  - jigsaw puzzles
-  - an all you can eat casino buffet
-  - Cincinnati chili
+
